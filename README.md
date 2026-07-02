@@ -6,7 +6,7 @@
 </p>
 
 ### 👀 About Me
-🛠️ Full-stack developer building production-grade web apps with Node.js, React, and AWS
+🛠️ Full-stack developer building production-grade web apps.
 
 🤖 Building RAG pipelines and agentic AI applications
 
